@@ -2,7 +2,8 @@
 
 A responsive e-commerce storefront built with React and Tailwind CSS featuring dark/light mode, smooth navigation, and an engaging user interface.
 
-![Online Store Preview](https://via.placeholder.com/800x400?text=Online+Store+Preview)
+![Online Store Preview](![image](https://github.com/user-attachments/assets/2cdf087a-d6d5-4111-9d2c-c6987d6b8117)
+)
 
 ## Features
 
